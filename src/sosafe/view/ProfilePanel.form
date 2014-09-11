@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="name" type="java.lang.String" value="" noResource="true"/>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1260, 411]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="customerIdLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="customerNameLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="propertyAddressLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="phoneNumberLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="emailAddressLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="primaryContactNumberLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="secondaryContactNumberLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="licenseCodeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="masterPasswordLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="responseCodeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="customerIdField" alignment="0" pref="1100" max="32767" attributes="0"/>
+                          <Component id="customerNameField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="propertyAddressField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="phoneNumberField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="emailAddressField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="primaryContactNumberField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="secondaryContactNumberField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="licenseCodeField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="responseCodeField" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jPasswordField1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jPasswordField2" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="saveButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="customerIdLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="customerIdField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="customerNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="customerNameField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="propertyAddressLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="propertyAddressField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="phoneNumberLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="phoneNumberField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="emailAddressLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="emailAddressField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="primaryContactNumberLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="primaryContactNumberField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="secondaryContactNumberLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="secondaryContactNumberField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="licenseCodeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="licenseCodeField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="masterPasswordLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jPasswordField1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jPasswordField2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="responseCodeField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="responseCodeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="saveButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="80" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="customerIdLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Customer Id:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="customerNameLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Customer Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="propertyAddressLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Property Address:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="phoneNumberLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Phone Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="emailAddressLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email Address:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="primaryContactNumberLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Primary Contact Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="secondaryContactNumberLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Secondary Contact Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="licenseCodeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="License Code:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="masterPasswordLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Master Password:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="responseCodeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Response Code:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="customerIdField">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="customerIdField.setText(ViewController.getInstance().getCurrentUser().getCustomerId().toString());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="customerNameField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="customerNameField.setText(ViewController.getInstance().getCurrentUser().getCustomerName());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="propertyAddressField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="propertyAddressField.setText(ViewController.getInstance().getCurrentUser().getPropertyAddress());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="phoneNumberField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="phoneNumberField.setText(ViewController.getInstance().getCurrentUser().getPhoneNumber());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="emailAddressField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="emailAddressField.setText(ViewController.getInstance().getCurrentUser().getEmailAddress());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="primaryContactNumberField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="primaryContactNumberField.setText(ViewController.getInstance().getCurrentUser().getPrimaryContactNumber());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="secondaryContactNumberField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="secondaryContactNumberField.setText(ViewController.getInstance().getCurrentUser().getSecondaryContactNumber());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="licenseCodeField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="licenseCodeField.setText(ViewController.getInstance().getCurrentUser().getLicenseCode());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="jPasswordField1">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="jPasswordField1.setText(ViewController.getInstance().getCurrentUser().getMasterPassword());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="jPasswordField2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="responseCodeField">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="responseCodeField.setText(ViewController.getInstance().getCurrentUser().getResponseCode());"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="saveButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="saveButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

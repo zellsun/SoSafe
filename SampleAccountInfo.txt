@@ -1,0 +1,10 @@
+Customer Id: 1
+Customer Name: Zhe Sun
+Property Address: Santa Clara University, 500 El Camino Real, Santa Clara, CA 95053
+Phone Number: 4088338748
+Email Address: zsun@scu.edu
+Primary Contact Number: 4088338748
+Secondary Contact Number: 4085544000
+License Code: 0123-4567-89AB-CDEF
+Master Password: Test1234
+Response Code: 1234

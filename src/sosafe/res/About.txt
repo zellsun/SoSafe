@@ -1,0 +1,4 @@
+ About the Project
+ This project is for our class Summer 2014 COEN 359 Design Pattern.
+ Thanks for our teacher Dr. Rani Mikkilineni's outstanding instructing.
+ Team members: Zhe Sun (zsun@scu.edu), Hongsen He (hhe@scu.edu).
